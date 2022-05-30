@@ -1,6 +1,6 @@
 school,H23,H24,H25,H26,H27
-elementary school,2423,7187,5581,4993,3557
-junior high school,2195,4238,3854,3255,2697
-high school,41,136,181,127,46
-special needs school,12,43,42,22,11
+e_school,2423,7187,5581,4993,3557
+jh_school,2195,4238,3854,3255,2697
+h_school,41,136,181,127,46
+sn_school,12,43,42,22,11
 s_total,4671,11604,9658,8397,6311
