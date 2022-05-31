@@ -14,10 +14,10 @@ ex)H23,H24,H25...
 ex)H23,H24,H25...
 "school" には対象となる学年を入れます。
 ex)e_school,jh_school,h_school...
-$ bully_comparsion year c_year school
+$ bullycomp year c_year school
 →
-$ bully_comparsion H23 H24 h_school
+$ bullycomp H23 H24 h_school
 year="H23",c_year="H24", school="h_school"
 
-$ bully_comparsion H26 H23 sn_school
+$ bullycomp H26 H23 sn_school
 year="H26",c_year="H23", school="jh_school"
